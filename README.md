@@ -10,10 +10,10 @@
 ### 💻 Current working environments
 
 ### ⚙️ &nbsp;ihaufS GitHub Analytics
-<p display="flex">
+<p align="center">
 <a href="https://github.com/ihaufS">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaufS&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaufS&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihaufS&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihaufS&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
 <br>
