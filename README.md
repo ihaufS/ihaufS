@@ -4,14 +4,7 @@
 - 💞️ I’m an avid learner and I've keen interest in Android Development and Web Development.
 - 📱 I am actively maintaining a personal web ecosystem
 - 📫 You can reach me by my email address 'l3abysexy@gmail.com'.
-- 📫Lets Connect through Twitter or Facebook/Messenger.
-
-<a href="https://twitter.com/HaUl20_07l">
-  <img align="left" alt="leKhuongHau's X" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" />
-</a>
-<a href="https://facebook.com/LeKhuongHau">
-  <img align="left" alt="LeKhuongHau's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />
-
+- 📫Lets Connect through <a href="https://twitter.com/HaUl20_07l">Twitter</a> or <a href="https://facebook.com/LeKhuongHau">Facebook/Messenger</a>.
 <br><br>
 
 ### 💻 Current working environments
